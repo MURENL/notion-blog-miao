@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'muren',
 
   // open graph metadata (optional)
-  description: '专注技术、持续学习',
+  // description: '专注技术、持续学习',
 
   // social usernames (optional)
   // twitter: 'laomiao_',
